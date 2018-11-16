@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+   background-color: black;
+}
+p{
+    color:white;
+    text-align:center;
+}
+div.menu{
+    text-align: center;
+    background-color: white;
+}
+div.intro{
+    border: 4px dotted blue;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 420px;
+    margin-top: 80px;
+    width: 500px;
+
+}
